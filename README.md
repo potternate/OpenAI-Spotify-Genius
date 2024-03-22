@@ -14,7 +14,7 @@ This web application allows users to generate blog posts about songs. Users can 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/song-blog-generator.git
+    git clone https://github.com/potternate/openai-spotify-genius.git
     ```
 
 2. Install dependencies:
