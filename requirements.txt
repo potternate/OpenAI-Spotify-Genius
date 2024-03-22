@@ -1,0 +1,4 @@
+spotipy
+lyricsgenius
+openai
+python-dotenv
